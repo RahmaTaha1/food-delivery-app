@@ -205,7 +205,7 @@ class _OrderState extends State<Order> {
             SizedBox(height: 16.0),
             GestureDetector(
               onTap: () {
-                // Implement checkout functionality
+                
               },
               child: Container(
                 padding: EdgeInsets.symmetric(vertical: 14.0),
